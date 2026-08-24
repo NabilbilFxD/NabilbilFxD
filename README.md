@@ -47,6 +47,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabilbilFxD&theme=tokyonight&hide_border=true" width="97%" />
 </p>
 
+### ⌛ Weekly Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NabilbilFxD&theme=tokyonight&layout=compact" />
+</p>
+
 ### 🐍 Contribution Snake
 
 <picture>
