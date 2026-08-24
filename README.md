@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&animation=fadeIn&fontColor=ffffff&customColorList=24,25,26" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./github-header-banner.png" width="100%" alt="Header Banner" />
-</p>
+<img src="standard.gif" width="100%" alt="Header Banner">
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=false&vCenter=true&width=435&lines=Software+Engineering+Student;Linux+%26+Custom+ROM+Enthusiast;Web+%26+Mobile+Developer" alt="Typing SVG" />
