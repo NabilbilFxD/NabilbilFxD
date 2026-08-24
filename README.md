@@ -39,11 +39,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=NabilbilFxD&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=NabilbilFxD&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabilbilFxD&theme=tokyonight&hide_border=true" width="97%" />
 </p>
 
