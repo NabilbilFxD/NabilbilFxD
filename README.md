@@ -50,7 +50,7 @@
 ### ⌛ Weekly Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NabilbilFxD&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api/wakatime?username=NabilbilFxD&theme=tokyonight&layout=compact" />
 </p>
 
 ### 🐍 Contribution Snake
