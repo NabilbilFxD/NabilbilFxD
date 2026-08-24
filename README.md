@@ -43,3 +43,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabilbilFxD&theme=tokyonight&hide_border=true" width="97%" />
 </p>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NabilbilFxD/NabilbilFxD/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NabilbilFxD/NabilbilFxD/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake activity" src="https://raw.githubusercontent.com/NabilbilFxD/NabilbilFxD/output/github-contribution-grid-snake.svg">
+</picture>
