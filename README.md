@@ -47,10 +47,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabilbilFxD&theme=tokyonight&hide_border=true" width="97%" />
 </p>
 
-### ⌛ Weekly Coding Activity
-
 <p align="center">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/wakatime?username=NabilbilFxD&theme=tokyonight&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NabilbilFxD&theme=tokyonight" width="100%" />
 </p>
 
 ### 🐍 Contribution Snake
