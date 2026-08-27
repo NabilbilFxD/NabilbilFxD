@@ -18,20 +18,23 @@
 
 ---
 
-<h3>🛠️ Tech Stack & Tools</h3>
-
 <p align="center">
   <b>Languages & Web</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,cpp" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-8B0000?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-8B0000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 <p align="center">
   <b>OS & Tools</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,windows,git,vscode" />
-  </a>
+  <img src="https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-8B0000?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-8B0000?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ### 📊 GitHub Stats
