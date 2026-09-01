@@ -16,5 +16,5 @@ jobs:
           GH_TOKEN: ${{ secrets.WAKATIME_GH_TOKEN }}
           SHOW_UPDATED_DATE: "False"
           SECTION_NAME: "wakatime"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LOC_CHART: "False"
