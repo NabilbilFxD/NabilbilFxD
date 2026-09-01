@@ -48,6 +48,106 @@
 </p>
 
 <!--START_SECTION:wakatime-->
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2047%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%209%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-131-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 59.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 56 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                30 commits          █████████████░░░░░░░░░░░░   53.57 % 
+🌆 Daytime                26 commits          ████████████░░░░░░░░░░░░░   46.43 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   23 commits          ██████████░░░░░░░░░░░░░░░   41.07 % 
+Tuesday                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Wednesday                6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Thursday                 13 commits          ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Friday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+JavaScript               5 hrs 37 mins       ██████████████████████░░░   88.25 % 
+CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 22 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+website-kelas            6 hrs 22 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  6 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 48 mins (91.03%)
+
+✍️ 478 lines written by AI, 44 lines written by hand (91.57% AI-written)
+
+🔤 11,630,116 Input Tokens, 135,319 Output Tokens
+
+💵 $84.73 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 146 AI Prompts
+
+Opencode-Cli             517 lines           ███████████████████████░░   93.66 % 
+Nemotron                 35 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 91.57% of written lines came from AI
+📝 Concise Prompter — average 100 characters per prompt
+🔁 Iterative Prompter — average 36 prompts per session
+🚀 High AI Trust — 47.23% of changed lines were hand-edited
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Dart                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/NabilbilFxD/NabilbilFxD/main/assets/bar_graph.png)
+
+
 <!--END_SECTION:wakatime-->
 
 ### 🐍 Contribution Snake
