@@ -47,6 +47,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NabilbilFxD&theme=2077" width="100%" />
 </p>
 
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
+
 ### 🐍 Contribution Snake
 
 <picture>
