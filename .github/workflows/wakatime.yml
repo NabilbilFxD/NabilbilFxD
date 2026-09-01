@@ -16,3 +16,8 @@ jobs:
           GH_TOKEN: ${{ secrets.WAKATIME_GH_TOKEN }}
           SHOW_UPDATED_DATE: "False"
           SECTION_NAME: "wakatime"
+          # Konfigurasi Tema Gelap (Dark Theme)
+          BG_COLOR: "0d1117"
+          TEXT_PRIMARY_COLOR: "ffffff"
+          TEXT_SECONDARY_COLOR: "ff0000"
+          BAR_TRACK_COLOR: "1f2937"
