@@ -18,3 +18,8 @@ jobs:
           SECTION_NAME: "wakatime"
           SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
+          
+          # Kustomisasi Tampilan
+          BAR_STYLE: "solid"
+          SYMBOL_VERSION: "1"
+          SHOW_SHORT_INFO: "True"
