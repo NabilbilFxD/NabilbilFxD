@@ -48,11 +48,11 @@
 </p>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-213-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-224-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,46 +93,47 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               1 hr 4 mins         ████████████████░░░░░░░░░   62.08 % 
-CSS                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Groovy                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Kotlin                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JavaScript               34 mins             █████████░░░░░░░░░░░░░░░░   37.48 % 
+CSS                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Kotlin                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Groovy                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 
 🔥 Editors: 
-VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-website-kelas            1 hr 30 mins        ██████████████████████░░░   86.43 % 
-KotlinApp                11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Rakha                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+website-kelas            59 mins             ████████████████░░░░░░░░░   65.23 % 
+KrayonMusicV2            17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+KotlinApp                11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Rakha                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (89.91%)
+⏱ AI Coding Time: 1 hr 19 mins (87.22%)
 
-✍️ 61 lines written by AI, 30 lines written by hand (67.03% AI-written)
+✍️ 121 lines written by AI, 30 lines written by hand (80.13% AI-written)
 
-🔤 1,397,349 Input Tokens, 24,233 Output Tokens
+🔤 804,113 Input Tokens, 16,396 Output Tokens
 
-💵 $11.50 Estimated AI Cost This Week
+💵 $3.71 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 38 AI Prompts
+🧠 5 AI Sessions, 30 AI Prompts
 
-Opencode-Cli             45 lines            ██████████████░░░░░░░░░░░   56.25 % 
-Nemotron                 35 lines            ███████████░░░░░░░░░░░░░░   43.75 % 
+Opencode-Cli             127 lines           ██████████████████████░░░   88.19 % 
+Nemotron                 17 lines            ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.03% of written lines came from AI
-📝 Concise Prompter — average 74 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 27.27% of changed lines were hand-edited
+🤖 AI-Driven — 80.13% of written lines came from AI
+📝 Concise Prompter — average 144 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 17.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
