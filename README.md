@@ -48,9 +48,9 @@
 </p>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-224-blue?style=flat)
 
@@ -93,47 +93,53 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               34 mins             █████████░░░░░░░░░░░░░░░░   37.48 % 
-CSS                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Kotlin                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Groovy                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+TypeScript               2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.59 % 
+Other                    1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.53 % 
+Kotlin                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Dart                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 25 mins       ████████████████░░░░░░░░░   65.97 % 
+Agent                    1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   31.48 % 
+Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Hermes                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🐱‍💻 Projects: 
-website-kelas            59 mins             ████████████████░░░░░░░░░   65.23 % 
-KrayonMusicV2            17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-KotlinApp                11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Rakha                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+krayon-music-v2          1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   33.59 % 
+Unknown Project          1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Krayon V2                37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Rakha                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+KotlinApp                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 19 mins (87.22%)
+⏱ AI Coding Time: 5 hrs 9 mins (99.36%)
 
-✍️ 121 lines written by AI, 30 lines written by hand (80.13% AI-written)
+✍️ 426 lines written by AI, 1 lines written by hand (99.77% AI-written)
 
-🔤 804,113 Input Tokens, 16,396 Output Tokens
+🔤 8,513,455 Input Tokens, 117,833 Output Tokens
 
-💵 $3.71 Estimated AI Cost This Week
+💵 $54.57 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 30 AI Prompts
+🧠 23 AI Sessions, 131 AI Prompts
 
-Opencode-Cli             127 lines           ██████████████████████░░░   88.19 % 
-Nemotron                 17 lines            ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Opencode-Cli             431 lines           ███████████████████████░░   93.09 % 
+Hermes                   32 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.13% of written lines came from AI
-📝 Concise Prompter — average 144 characters per prompt
+🤖 AI-Driven — 99.77% of written lines came from AI
+📄 Detailed Prompter — average 856 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 17.24% of changed lines were hand-edited
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
