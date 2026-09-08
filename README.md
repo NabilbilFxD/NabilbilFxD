@@ -50,7 +50,7 @@
 <!--START_SECTION:wakatime-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-226-blue?style=flat)
 
@@ -93,53 +93,53 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.59 % 
-Other                    1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.53 % 
-Kotlin                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Dart                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Other                    3 hrs 3 mins        █████████████████░░░░░░░░   66.16 % 
+Kotlin                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+TypeScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Dart                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Groovy                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 25 mins       ████████████████░░░░░░░░░   65.97 % 
-Agent                    1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   31.48 % 
-Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Hermes                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Agent                    3 hrs               ████████████████░░░░░░░░░   64.98 % 
+VS Code                  1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   32.16 % 
+Cursor                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Hermes                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-krayon-music-v2          1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   33.59 % 
-Unknown Project          1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Krayon V2                37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Rakha                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-KotlinApp                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Unknown Project          2 hrs 33 mins       ██████████████░░░░░░░░░░░   55.27 % 
+Krayon V2                37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+KotlinApp                28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+KrayonMusicV2            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+krayon-music-v2          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 💻 Operating System: 
-Windows                  5 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 9 mins (99.36%)
+⏱ AI Coding Time: 4 hrs 35 mins (99.28%)
 
-✍️ 426 lines written by AI, 1 lines written by hand (99.77% AI-written)
+✍️ 133 lines written by AI, 1 lines written by hand (99.25% AI-written)
 
-🔤 8,513,455 Input Tokens, 117,833 Output Tokens
+🔤 946,422 Input Tokens, 63,254 Output Tokens
 
-💵 $54.57 Estimated AI Cost This Week
+💵 $4.19 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 131 AI Prompts
+🧠 21 AI Sessions, 99 AI Prompts
 
-Opencode-Cli             431 lines           ███████████████████████░░   93.09 % 
-Hermes                   32 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Opencode-Cli             113 lines           ███████████████████░░░░░░   77.93 % 
+Hermes                   32 lines            ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.77% of written lines came from AI
-📄 Detailed Prompter — average 856 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.22% of changed lines were hand-edited
+🤖 AI-Driven — 99.25% of written lines came from AI
+📚 Verbose Prompter — average 2,012 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
