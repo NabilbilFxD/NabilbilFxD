@@ -50,9 +50,9 @@
 <!--START_SECTION:wakatime-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-226-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-152-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,41 +93,41 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    3 hrs 3 mins        █████████████████░░░░░░░░   66.16 % 
-Kotlin                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-TypeScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Dart                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Groovy                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Other                    4 hrs 25 mins       ████████████████████░░░░░   80.60 % 
+Kotlin                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Dart                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Groovy                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-Agent                    3 hrs               ████████████████░░░░░░░░░   64.98 % 
-VS Code                  1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   32.16 % 
-Cursor                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Hermes                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Agent                    4 hrs 22 mins       ████████████████████░░░░░   79.61 % 
+VS Code                  1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 33 mins       ██████████████░░░░░░░░░░░   55.27 % 
-Krayon V2                37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-KotlinApp                28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-KrayonMusicV2            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-krayon-music-v2          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Unknown Project          3 hrs 55 mins       ██████████████████░░░░░░░   71.44 % 
+Krayon V2                37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+KotlinApp                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+KrayonMusicV2            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Rakha                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 35 mins (99.28%)
+⏱ AI Coding Time: 5 hrs 27 mins (99.4%)
 
 ✍️ 133 lines written by AI, 1 lines written by hand (99.25% AI-written)
 
-🔤 946,422 Input Tokens, 63,254 Output Tokens
+🔤 868,256 Input Tokens, 79,251 Output Tokens
 
-💵 $4.19 Estimated AI Cost This Week
+💵 $4.40 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 99 AI Prompts
+🧠 15 AI Sessions, 104 AI Prompts
 
 Opencode-Cli             113 lines           ███████████████████░░░░░░   77.93 % 
 Hermes                   32 lines            ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
@@ -137,8 +137,8 @@ Cursor                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.25% of written lines came from AI
-📚 Verbose Prompter — average 2,012 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 2,533 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.68% of changed lines were hand-edited
 ```
 
