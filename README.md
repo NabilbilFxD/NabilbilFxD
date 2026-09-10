@@ -52,7 +52,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-152-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,53 +93,47 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    4 hrs 25 mins       ████████████████████░░░░░   80.60 % 
-Kotlin                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Dart                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Groovy                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Other                    4 hrs 8 mins        █████████████████████░░░░   84.92 % 
+Kotlin                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Dart                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Agent                    4 hrs 22 mins       ████████████████████░░░░░   79.61 % 
-VS Code                  1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Agent                    4 hrs 22 mins       ██████████████████████░░░   89.59 % 
+VS Code                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 55 mins       ██████████████████░░░░░░░   71.44 % 
-Krayon V2                37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-KotlinApp                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-KrayonMusicV2            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Rakha                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Unknown Project          3 hrs 51 mins       ████████████████████░░░░░   78.83 % 
+Krayon V2                37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+KrayonMusicV2            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 
 💻 Operating System: 
-Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 27 mins (99.4%)
+⏱ AI Coding Time: 4 hrs 51 mins (99.6%)
 
-✍️ 133 lines written by AI, 1 lines written by hand (99.25% AI-written)
+✍️ 70 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 868,256 Input Tokens, 79,251 Output Tokens
+🔤 473,160 Input Tokens, 75,903 Output Tokens
 
-💵 $4.40 Estimated AI Cost This Week
+💵 $3.31 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 104 AI Prompts
+🧠 12 AI Sessions, 87 AI Prompts
 
-Opencode-Cli             113 lines           ███████████████████░░░░░░   77.93 % 
-Hermes                   32 lines            ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Opencode-Cli             82 lines            █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.25% of written lines came from AI
-📚 Verbose Prompter — average 2,533 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,018 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.68% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
