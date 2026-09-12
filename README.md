@@ -48,11 +48,11 @@
 </p>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-125-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,42 +93,40 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    4 hrs 24 mins       ███████████████████████░░   91.37 % 
-Dart                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Kotlin                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Other                    4 hrs 31 mins       ████████████████████████░   97.51 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-Agent                    4 hrs 43 mins       █████████████████████████   98.07 % 
-Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Agent                    4 hrs 38 mins       █████████████████████████   100.00 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 12 mins       ██████████████████████░░░   87.18 % 
-Krayon V2                37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Unknown Project          4 hrs 31 mins       ████████████████████████░   97.51 % 
+Krayon V2                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 💻 Operating System: 
-Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 49 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 38 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 201,089 Input Tokens, 74,981 Output Tokens
+🔤 71,714 Input Tokens, 71,714 Output Tokens
 
-💵 $1.93 Estimated AI Cost This Week
+💵 $1.29 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 84 AI Prompts
+🧠 8 AI Sessions, 69 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 3,406 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 4,153 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
