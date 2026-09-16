@@ -50,7 +50,7 @@
 <!--START_SECTION:wakatime-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue?style=flat)
 
@@ -93,40 +93,40 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    3 hrs 52 mins       ████████████████████████░   97.09 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Other                    3 hrs 6 mins        ████████████████████████░   96.41 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-Agent                    3 hrs 59 mins       █████████████████████████   100.00 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Agent                    3 hrs 13 mins       █████████████████████████   99.99 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 52 mins       ████████████████████████░   97.09 % 
-Krayon V2                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Unknown Project          3 hrs 6 mins        ████████████████████████░   96.41 % 
+Krayon V2                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 💻 Operating System: 
-Windows                  3 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 59 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 13 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 59,530 Input Tokens, 59,530 Output Tokens
+🔤 59,229 Input Tokens, 59,229 Output Tokens
 
 💵 $1.07 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 61 AI Prompts
+🧠 9 AI Sessions, 55 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 3,904 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 4,308 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
