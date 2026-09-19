@@ -50,7 +50,7 @@
 <!--START_SECTION:wakatime-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -93,40 +93,37 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    3 hrs 2 mins        ████████████████████████░   96.34 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Other                    1 hr 46 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Agent                    3 hrs 9 mins        █████████████████████████   99.99 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Agent                    1 hr 46 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 2 mins        ████████████████████████░   96.34 % 
-Krayon V2                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Unknown Project          1 hr 46 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 9 mins (100.0%)
+⏱ AI Coding Time: 1 hr 46 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 64,034 Input Tokens, 64,034 Output Tokens
+🔤 46,933 Input Tokens, 46,933 Output Tokens
 
-💵 $1.15 Estimated AI Cost This Week
+💵 $0.84 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 57 AI Prompts
+🧠 9 AI Sessions, 40 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 4,495 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 4,695 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
