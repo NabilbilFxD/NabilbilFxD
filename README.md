@@ -93,36 +93,36 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    1 hr 3 mins         █████████████████████████   100.00 % 
+Other                    26 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Agent                    1 hr 3 mins         █████████████████████████   100.00 % 
+Agent                    26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 3 mins         █████████████████████████   100.00 % 
+Unknown Project          26 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 3 mins (100.0%)
+⏱ AI Coding Time: 26 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 35,107 Input Tokens, 35,107 Output Tokens
+🔤 19,294 Input Tokens, 19,294 Output Tokens
 
-💵 $0.63 Estimated AI Cost This Week
+💵 $0.35 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 26 AI Prompts
+🧠 5 AI Sessions, 14 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 5,403 characters per prompt
+📚 Verbose Prompter — average 5,514 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
