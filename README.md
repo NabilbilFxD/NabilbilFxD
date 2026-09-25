@@ -52,7 +52,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,36 +93,36 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    13 mins             █████████████████████████   100.00 % 
+Other                    9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Agent                    13 mins             █████████████████████████   100.00 % 
+Agent                    9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          13 mins             █████████████████████████   100.00 % 
+Unknown Project          9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (100.0%)
+⏱ AI Coding Time: 9 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 10,189 Input Tokens, 10,189 Output Tokens
+🔤 7,838 Input Tokens, 7,838 Output Tokens
 
-💵 $0.18 Estimated AI Cost This Week
+💵 $0.14 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 5,096 characters per prompt
+📚 Verbose Prompter — average 5,227 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
