@@ -48,11 +48,11 @@
 </p>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,37 +93,38 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     1 hr 3 mins         ██████████████████████░░░   86.87 % 
-YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Dart                     2 hrs 37 mins       ████████████████████████░   94.24 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Cursor                   1 hr 13 mins        █████████████████████████   100.00 % 
+Cursor                   2 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Krayon V2                1 hr 13 mins        █████████████████████████   100.00 % 
+Krayon V2                2 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 46 mins (100.0%)
 
-✍️ 16 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 36 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,413,401 Input Tokens, 11,954 Output Tokens
+🔤 2,723,763 Input Tokens, 21,402 Output Tokens
 
-💵 $7.98 Estimated AI Cost This Week
+💵 $14.48 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 11 AI Prompts
+🧠 3 AI Sessions, 34 AI Prompts
 
-Composer                 22 lines            █████████████████████████   100.00 % 
+Composer                 52 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 106 characters per prompt
+📝 Concise Prompter — average 71 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
